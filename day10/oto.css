@@ -1,0 +1,22 @@
+section {
+  height: 100vh;
+  width: 100%;
+  background-image: url(./image/image\ 55555.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  justify-content: center;
+  align-items: center;
+}
+div.second {
+  background-color: burlywood;
+  border: 10px solid;
+  text-align: center;
+  font-size: 15px;
+}
+h1.three {
+  font-size: 80px;
+}
+div.five {
+  text-align: center;
+}
